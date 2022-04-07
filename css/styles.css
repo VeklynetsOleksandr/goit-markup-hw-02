@@ -15,7 +15,7 @@ body {
 .list {
     list-style: none;
 }
-
+/* ----------------------LOGO----------------------------- */
 .logo-link {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
@@ -55,6 +55,8 @@ body {
     color: var(--acent-text-color);
 }
 
+/* ----------------------HERO----------------------------- */
+
 .hero {
     background-color: #2F303A
 }
@@ -82,6 +84,8 @@ body {
     cursor: pointer
 }
 
+/* ----------------------QUALITIES----------------------------- */
+
 .qualities-title {
     font-weight: 700;
     font-size: 14px;
@@ -96,6 +100,8 @@ body {
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
+
+/* ----------------------TEAM----------------------------- */
 
 .about-title, 
 .team-main-title {
@@ -121,6 +127,8 @@ body {
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
+
+/* ----------------------FOOTER----------------------------- */
 
 .footer {
     background-color: #2F303A;
